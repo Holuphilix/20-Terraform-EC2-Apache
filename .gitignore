@@ -1,0 +1,35 @@
+# .gitignore
+
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Crash log files
+crash.log
+
+# .terraformrc and CLI configuration
+.terraformrc
+terraform.rc
+
+# Sensitive files
+*.pem
+*.key
+*.crt
+
+# Terraform variable files
+terraform.tfvars
+terraform.tfvars.json
+
+# VSCode settings
+.vscode/
+
+# Backup files
+*.backup
+*.bak
+*.tmp
+
+# MacOS system files
+.DS_Store
