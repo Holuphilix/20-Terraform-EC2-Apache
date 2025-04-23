@@ -612,13 +612,3 @@ This project uses Git for version control and GitHub as the remote repository to
    git branch -M main
    git push -u origin main
    ```
-
-#### 📌 Notes
-
-- Keep `terraform.tfvars` out of Git to avoid exposing secrets.
-- Always review changes with `git status` and `git diff` before committing.
-- Consider using Git branches when adding features or making updates.
-
----
-
-Let me know if you'd like to include a **GitHub badge**, GitHub Actions for CI/CD, or more sections like **How to Contribute** or **Branch Strategy**.
