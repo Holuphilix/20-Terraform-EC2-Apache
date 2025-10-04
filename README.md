@@ -1,4 +1,4 @@
-# 🌐 EC2 Module and Security Group Module with Apache2 UserData
+# 🌐 Mini Project: EC2 Module and Security Group Module with Apache2 UserData
 
 ## 📖 Overview
 
